@@ -1,11 +1,10 @@
 # GogglesDET
 
-```Data
+#Data
 
-```Inference
+#Inference
+#Train
 
-```Train
 
-
-```How to quote
+#How to quote
 
