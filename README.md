@@ -69,7 +69,7 @@ python tools/train.py configGoggles/yolox_s_base_loss2_r08_clsconv.py
 ### Validation
 For testing, run
 ```Shell
-python tools/test.py [path_to_your_config]  [path_to_your_checkpoint] [path_to_your_checkpoint]  --work-dir  [path_to_your_workdir] --eval bbox
+python tools/test.py [path_to_your_config]  [path_to_your_checkpoint] --work-dir  [path_to_your_workdir] --eval bbox
 ```
 
 For example, run
