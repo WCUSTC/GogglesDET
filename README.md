@@ -92,12 +92,12 @@ We will provide the Finetuned Model Links after the review phase
 
 | Model                 | Download     |
 |-----------------------|--------------|
-| YOLOX-S               | [download]() |
-| YOLOX-S + CTM         |[download]()              |
-| Faster RCNN           |[download]()              |
-| Faster RCNN + CTM     | [download]()             |
-| Deformable-DETR       | [download]()             |
-| Deformable-DETR + CTM | [download]()             |
+| YOLOX-S               | [download](https://pan.baidu.com/s/1oF4hd0pIAce1v_9UFK701A?pwd=1pph) |
+| YOLOX-S + CTM         |[download](https://pan.baidu.com/s/1j-CLY16AiauaKZQi4SQo-w?pwd=z5u0)              |
+| Faster RCNN           |[download](https://pan.baidu.com/s/1Pw8SuOzYh2fR3loYyWJUaQ?pwd=1234)              |
+| Faster RCNN + CTM     | [download](https://pan.baidu.com/s/1x5-y0UzWFWAgGi5bwhGIgA?pwd=1234)             |
+| Deformable-DETR       | [download](https://pan.baidu.com/s/18Qc48icCXLTCICNmI2_YaA?pwd=1234)             |
+| Deformable-DETR + CTM | [download](https://pan.baidu.com/s/1WEu04iOddVLJ_N-OL-Kqaw?pwd=1234)             |
 
 
 ## Results
