@@ -5,7 +5,7 @@
 </div>
 
 
-Pytorch implementation of the paper "[GogglesDet: Goggles Detection with Clustering Transformer and A New Dataset]()" .
+Pytorch implementation of the paper "[GogglesDet: Goggles Detection with Clustering Transformer and A New Dataset](https://link.springer.com/article/10.1007/s11760-024-03778-x)" .
 
 ## Introduction
 * The first work on goggles detection. 
@@ -117,11 +117,16 @@ We will provide the Finetuned Model Links after the review phase
 
 If our paper and code are beneficial to your work, please consider citing:
 ```
-
-
-
-
-
+@article{wang2025gogglesdet,
+  title={Gogglesdet: goggles detection with clustering transformer and a new dataset},
+  author={Wang, Chong and Cheng, Zhuozhi and Akram, Adeel and Zhang, Qixing and Zhang, Yongming},
+  journal={Signal, Image and Video Processing},
+  volume={19},
+  number={2},
+  pages={188},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
 ## Acknowledgement
